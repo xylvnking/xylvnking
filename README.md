@@ -3,7 +3,8 @@
 
 <br /> -->
 
-<img src="https://cdna.artstation.com/p/assets/images/images/045/584/496/4k/terraform-studios-copy-of-praxis-mk-aerial-cityshot-k-01.jpg?1643075097" width="100%" height="auto"/>
+<!-- <img src="https://cdna.artstation.com/p/assets/images/images/045/584/496/4k/terraform-studios-copy-of-praxis-mk-aerial-cityshot-k-01.jpg?1643075097" width="100%" height="auto"/> -->
+<img src="https://medi-leadership.org/wp-content/uploads/2019/04/placeholder-wide.png" width="100%" height="auto"/>
 
 <h1 align="center">Hello World 👋 I'm Dylan King</h1>
 <h3 align="center">A professional audio engineer and hobbyist 3D artist learning fullstack web development</h3>
@@ -50,7 +51,21 @@
 </details> -->
 
 
-<h3 align="left">💾 About me</h3>
+<h3 align="left">💾 About me (hipsum)</h3>
 
+<!-- 
 * When I was in college for music I almost got kicked out because I got caught sleeping overnight in the school in order to get more access to the recording studios
-* I moved to Toronto in 2016 to be part of the growing underground rap/rnb scene as an engineer
+* I moved to Toronto in 2016 to be part of the growing underground rap/rnb scene as an engineer -->
+* Kogi crucifix asymmetrical tofu pop-up sartorial air plant kale chips disrupt lyft helvetica vice poke bitters single-origin coffee
+
+* Fam marfa you probably haven't heard of them flannel, vegan pickled tattooed snackwave tilde letterpress af try-hard williamsburg gochujang franzen
+
+* XOXO taiyaki 8-bit kickstarter. Slow-carb banjo 3 wolf moon adaptogen, church-key woke chillwave leggings
+
+* Mumblecore drinking vinegar hot chicken chambray, tbh selvage pour-over pok pok mlkshk DSA vexillologist tattooed taiyaki sustainable salvia
+
+* Fixie praxis trust fund green juice, salvia brooklyn copper mug VHS fashion axe bushwick ennui
+
+* La croix narwhal brunch, banh mi four loko drinking vinegar flannel kitsch etsy mlkshk fingerstache tbh you probably haven't heard of them
+
+* Wayfarers marfa man braid activated charcoal health goth. Tilde pitchfork hexagon, asymmetrical art party pok pok gluten-free gastropub lumbersexual
