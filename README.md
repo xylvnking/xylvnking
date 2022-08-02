@@ -9,6 +9,8 @@
 <h1 align="center">Hello World 👋 I'm Dylan King</h1>
 <h3 align="center">A professional audio engineer and hobbyist 3D artist learning fullstack web development</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xylvnking)](https://github.com/xylvnking/github-readme-stats)
+
 <h3 align="left">💻 Projects</h3>
 
 <!-- - 👨🏻‍💻 [My Portfolio](https://leoortega.com/)
